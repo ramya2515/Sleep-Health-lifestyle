@@ -1,8 +1,5 @@
-Here is the complete, detailed project description translated into English. It is formatted perfectly for your GitHub `README.md` file so you can easily present your project to a professional or global audience.
 
----
-
-# Sleep Health & Lifestyle Analysis
+---# Sleep Health & Lifestyle Analysis
 
 ## 📌 Project Overview
 
@@ -75,12 +72,4 @@ By decoding the model's coefficients ($\beta$ values), we can extract valuable, 
 * **Environment:** Jupyter Notebooks (`.ipynb`)
 * **Libraries:** Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn
 
----
 
-## 🚀 Getting Started
-
-To execute this analysis locally on your machine:
-
-1. Clone this repository.
-2. Install the necessary Python environment dependencies.
-3. Open `mark_linear.ipynb` to step through the exploratory data analysis and linear modeling execution.
